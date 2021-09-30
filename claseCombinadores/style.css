@@ -1,0 +1,34 @@
+/*h2 + p {
+    color: red;
+} hermanos cercanos. aplicale a todas las etiqueta
+p el color rojo,  las q esten cerca de la etiqueta h2
+*/
+
+/*h2 ~ p {
+   color: red;
+}
+*/
+
+/*como hermano general modificamos las etiq
+de parrafo q tengan como hno un h2 
+de forma general existen parrafos con etiquetas
+h2 cerca*/
+
+/*div > p {
+    color: red;
+}  */
+
+/*el padre div q sea mayor de una etiqueta parrafo
+etiqueta p sea hija directa de div*/
+
+/*div p {
+    color: red;
+}
+
+todas las etiquetas parrafos q esten adentro de una etiqueta div
+aplicale el siguiente estilo
+
+*/
+
+
+

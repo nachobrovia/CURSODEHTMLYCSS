@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    font-size: 1.6rem;
+}
+
+
+
+header {
+    border: black solid;
+    
+    
+}
+
+
+
+.container {
+    display: flex;
+}
+
+
+
+.c3 {
+    text-align: center;
+    display: inline-table
+}
+.c1 figure {
+    font-size: 5rem;
+}
+
+.c1 nav {
+    text-align: right;
+    
+}
+
+.c6 nav {
+    text-align: right;
+}
+
+.c1,
+.c2,
+.c3,
+.c4,
+.c5,
+.c6 {
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+}
+
+.c4 {
+    height: auto;
+}
+.c1 {
+    background-color: aquamarine;
+}
+
+.c2 {
+    background-color: brown;
+}
+
+.c3 {
+    background-color: blue;
+}
+
+.c4 {
+    background-color: black;
+}
+
+.c5 {
+    background-color: crimson;
+}
+
+.c6 {
+    background-color: salmon;
+}
+
+
+
+

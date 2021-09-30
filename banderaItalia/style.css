@@ -1,0 +1,48 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.parent {
+   border: 0.2rem black dotted;
+   display: inline-block;
+   width: 100rem;
+   height: 100rem;
+   position: relative;
+}
+
+.box {
+    display: inline-block;
+    background-color: red;
+    
+}
+
+ #one {
+    background-color: green ;
+    height: 100%;
+    width: 30%;
+    
+}
+
+#two {
+    background-color: white;
+    height: 100%;
+    width: 30%;
+    
+    
+}
+
+#three {
+    background-color: red;
+    position: absolute;
+    height: 100%;
+    width: 40%;
+    
+    left: 60rem;
+
+}

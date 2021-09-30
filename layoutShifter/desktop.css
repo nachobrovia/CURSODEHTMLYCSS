@@ -1,0 +1,43 @@
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+header {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.c1 {
+    width: 100%;
+    order: 1;
+}
+.c4 {
+    width: 50%;
+    order: 5;
+   
+
+}
+.c5 {
+    width: 50%;
+    order: 2;
+}
+
+.c3 {
+    width: auto;
+    order: 6;
+    
+    
+}
+.c2 {
+    width: 50%;
+    order: 4;
+}
+
+.c6 {
+    width: 50%;
+    order: 3;
+}
